@@ -1,0 +1,2 @@
+include ':app', ':MinaServer'
+rootProject.name='MinaClient'
